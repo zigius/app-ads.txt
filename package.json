@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ramimoshe/app-ads.txt#readme",
   "dependencies": {
-    "ads.txt": "https://github.com/zigius/ads.txt#master",
+    "ads.txt": "https://github.com/zigius/ads.txt.git#master",
     "bluebird": "^3.5.3",
     "lodash": "^4.17.11",
     "superagent": "^4.1.0",
