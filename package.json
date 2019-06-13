@@ -18,14 +18,14 @@
   },
   "homepage": "https://github.com/ramimoshe/app-ads.txt#readme",
   "dependencies": {
-    "ads.txt": "^0.3.0",
+    "ads.txt": "https://github.com/zigius/ads.txt#master",
     "bluebird": "^3.5.3",
     "lodash": "^4.17.11",
     "superagent": "^4.1.0",
     "superagent-proxy": "^2.0.0"
   },
   "devDependencies": {
-    "jest": "^22.1.2",
+    "jest": "^24.8.0",
     "superagent-mocker": "^0.5.2"
   },
   "engines": {
